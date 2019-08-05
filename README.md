@@ -17,3 +17,20 @@ This is a personal list and not affiliated with Splunk in any way. I use this li
 - [REST API Modular Input](https://splunkbase.splunk.com/app/1546/) . (poll data from a REST API)
 - [Website Input](https://splunkbase.splunk.com/app/1818/) . (scrape web pages)
 - [Protocol Data Inputs](https://splunkbase.splunk.com/app/1901/) (ingest data using multiple protocols)
+
+
+## Vizualisations
+
+- [3D Scatterplot](https://splunkbase.splunk.com/app/3138/) 
+- [Bullet Graph](https://splunkbase.splunk.com/app/3144/) 
+- [Cluster Map](https://splunkbase.splunk.com/app/3122/)
+- [D3 I](https://splunkbase.splunk.com/app/2785/) 
+- [D3 II](https://splunkbase.splunk.com/app/2856/)
+- [Force Directed](https://splunkbase.splunk.com/app/3767/) 
+- [Horizon Chart](https://splunkbase.splunk.com/app/3117/) 
+- [Maps+](https://splunkbase.splunk.com/app/3124/) 
+- [Parallel Coordinates](https://splunkbase.splunk.com/app/3137/) 
+- [Status Indicator](https://splunkbase.splunk.com/app/3119/) 
+- [Sankey Diagram](https://splunkbase.splunk.com/app/3112/) 
+- [Timeline](https://splunkbase.splunk.com/app/3120/) 
+- [Treemap](https://splunkbase.splunk.com/app/3118/) 
