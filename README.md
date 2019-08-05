@@ -11,6 +11,8 @@ This is a personal list and not affiliated with Splunk in any way. I use this li
 - [Lookup File Editor](https://splunkbase.splunk.com/app/1724/)
 - [Config Explorer](https://splunkbase.splunk.com/app/4353/#/details)
 - [Git Version Control for Splunk](https://splunkbase.splunk.com/app/4182/)
+- [Splunk Dev for All](https://splunkbase.splunk.com/app/4104/)
+- [Splunk Dashboard Examples](https://splunkbase.splunk.com/app/1603/)
 
 ## Data
 - [Eventgen](https://splunkbase.splunk.com/app/1924/) (generate fake data for testing)
@@ -34,3 +36,16 @@ This is a personal list and not affiliated with Splunk in any way. I use this li
 - [Sankey Diagram](https://splunkbase.splunk.com/app/3112/) 
 - [Timeline](https://splunkbase.splunk.com/app/3120/) 
 - [Treemap](https://splunkbase.splunk.com/app/3118/) 
+
+
+## Miscellanous (but just as awesome)
+- [Machine Learning Toolkit](https://splunkbase.splunk.com/app/2890/)
+- [Splunk CIM](https://splunkbase.splunk.com/app/1621/)
+- [Configuration Analytics](https://splunkbase.splunk.com/app/3295/)
+
+
+
+
+
+
+
