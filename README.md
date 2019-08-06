@@ -5,14 +5,18 @@ I've put this together to save you the effort of hunting around Splunkbase for u
 
 This is a personal list and not affiliated with Splunk in any way. I use this list to bootstrap my own projects.
 
+## How to apps (the place to start, better than the help docs ..)
+
+- [Splunk Dev for All](https://splunkbase.splunk.com/app/4104/)
+- [Splunk Dashboard Examples](https://splunkbase.splunk.com/app/1603/)
+
+
 ## Tools
 
 - [Datasets Add On](https://splunkbase.splunk.com/app/3245/#/overview) 
 - [Lookup File Editor](https://splunkbase.splunk.com/app/1724/)
 - [Config Explorer](https://splunkbase.splunk.com/app/4353/#/details)
 - [Git Version Control for Splunk](https://splunkbase.splunk.com/app/4182/)
-- [Splunk Dev for All](https://splunkbase.splunk.com/app/4104/)
-- [Splunk Dashboard Examples](https://splunkbase.splunk.com/app/1603/)
 
 ## Data
 - [Eventgen](https://splunkbase.splunk.com/app/1924/) (generate fake data for testing)
